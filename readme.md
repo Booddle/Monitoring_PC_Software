@@ -1,3 +1,8 @@
+### Quel est ce projet ?
+
+Ce projet est un logiciel de monitoring de machine, il permet de monitorer plusieurs données de la machine et de les stocker dans une base de donnée. Il permet aussi de prévenir l'utilisateur par mail si une donnée dépasse un certain seuil. Il dispose également d'une interface web pour visualiser les données.
+
+
 ### SETUP
 
 ajouter main.sh à la crontab:
