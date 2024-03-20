@@ -1,0 +1,5 @@
+cpu 90
+ram 90
+disk 90
+number_of_users 5
+nbr_process 100

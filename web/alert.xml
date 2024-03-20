@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alerts>
+  <alert>
+    <date>5 février 2024</date>
+    <ref>CERTFR-2024-ALE-003</ref>
+    <title>[MàJ] Incident affectant les solutions AnyDesk</title>
+    <status>Alerte en cours</status>
+  </alert>
+  <alert>
+    <date>15 février 2024</date>
+    <ref>CERTFR-2024-ALE-005</ref>
+    <title>[MàJ] Vulnérabilité dans Microsoft Outlook</title>
+    <status>Alerte en cours</status>
+  </alert>
+  <alert>
+    <date>11 janvier 2024</date>
+    <ref>CERTFR-2024-ALE-001</ref>
+    <title>[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways</title>
+    <status>Alerte en cours</status>
+  </alert>
+  <alert>
+    <date>9 février 2024</date>
+    <ref>CERTFR-2024-ALE-004</ref>
+    <title>[MàJ] Vulnérabilité dans Fortinet FortiOS</title>
+    <status>Alerte en cours</status>
+  </alert>
+  <alert>
+    <date>12 janvier 2024</date>
+    <ref>CERTFR-2024-ALE-002</ref>
+    <title>[MàJ] Multiples Vulnérabilités dans GitLab</title>
+    <status>Cloturée le 22/02/2024</status>
+  </alert>
+</alerts>

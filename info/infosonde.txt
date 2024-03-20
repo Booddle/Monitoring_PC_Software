@@ -1,0 +1,5 @@
+Utilisation CPU: 2.0 %
+Utilisation DISQUE: 68.2 %
+Utilisation RAM: 47.3 %
+Nombre de processus: 147
+Nombre d'utilisateur connecté: 1
