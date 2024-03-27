@@ -25,6 +25,18 @@ Pour lancer un fonctionnement spécifique utiliser :
 
 -m : pour paramétrer le mail et le monitoring
 
+### Libraries
+Python 3 : 
+- psutil
+- pygal
+- sqlite3
+- beautifulSoup
+- json
+- os
+- datetime
+- sys
+- requests
+
 ### Auteurs
 
 - [Buren Arthur]
